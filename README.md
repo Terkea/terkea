@@ -12,7 +12,7 @@
   <li>🧐 Learning <strong>TypeScript and GraphQL</strong>.
   <li>👨‍💻 Most of my projects are available on <a href="https://github.com/terkea">Github</a>.</li>
   <li>💬 Ping me about <strong>react, javascript, and security</strong>.</li>
-  <li>🎉 Fun Fact: I'm a huge aquascaping enthusiastic.</li>
+  <li>🎉 Fun Fact: I'm a huge aquascaping enthusiast and a crypto investor.</li>
 </ul>
 
 ## ⚡ Technologies  
