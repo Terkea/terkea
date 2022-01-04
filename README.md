@@ -8,7 +8,7 @@
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
-  <li>🔭 I’m currently working on my thesis.</li>
+  <li>🔭 I’m currently working on <a href="cutieverse.tech">Cutieverse</a>.</li>
   <li>🧐 Learning <strong>TypeScript and GraphQL</strong>.
   <li>👨‍💻 Most of my projects are available on <a href="https://github.com/terkea">Github</a>.</li>
   <li>💬 Ping me about <strong>react, javascript, and security</strong>.</li>
