@@ -243,13 +243,6 @@
 ## :email: Reach me on:
 [![Linkedin Badge](https://img.shields.io/badge/-marianterchila-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marian-terchila-a8b884180/)](https://www.linkedin.com/in/marian-terchila-a8b884180/)
 [![Gmail Badge](https://img.shields.io/badge/-dev.terkea@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dev.terkea@gmail.com)](mailto:dev.terkea@gmail.com)
+[![Blog](https://img.shields.io/badge/medium-Blog-orange)](https://miro.medium.com/max/8978/1*s986xIGqhfsN8U--09_AdA.png)
 [![Website](https://img.shields.io/badge/Website-informational?style=flat-square&logo=jekyll&logoColor=white&color=blueviolet)](https://www.terkea.co.uk)
 <a href="https://stackoverflow.com/users/8193864/terchila-marian" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat-square&logo=Stack-Overflow&logoColor=white"></a>
-
-
-## :trophy: My Github Stats:
-
-<div>
-  <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=terkea&count_private=true&show_icons=true&theme=tokyonight" />
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=terkea&hide=jupyter%20notebook,css,html&langs_count=8&theme=tokyonight" />
-</div>
