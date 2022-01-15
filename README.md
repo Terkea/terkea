@@ -9,7 +9,7 @@
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
   <li>🔭 I’m currently working on <a href="https://cutieverse.tech">Cutieverse</a>.</li>
-  <li>🧐 Learning <strong>TypeScript and GraphQL</strong>.
+  <li>🧐 Learning <strong>Solidity and GraphQL</strong>.
   <li>👨‍💻 Most of my projects are available on <a href="https://github.com/terkea">Github</a>.</li>
   <li>💬 Ping me about <strong>react, javascript, and security</strong>.</li>
   <li>🎉 Fun Fact: I'm a huge aquascaping enthusiast and a crypto investor.</li>
